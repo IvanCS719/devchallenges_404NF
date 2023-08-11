@@ -36,7 +36,10 @@
 
 ## Overview
 
+Screen 1440x1080
 ![screenshot](1440x1080.png)
+
+Screen 375x949
 ![screenshot](375x949.png)
 
 Introduce your projects by taking a screenshot or a gif. Try to tell visitors a story about your project by answering:
