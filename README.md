@@ -36,10 +36,10 @@
 
 ## Overview
 
-Screen 1440x1080<br>
+Screenshot 1440x1080<br>
 <img src="1440x1080.png" alt="screenshot" width="720">
 
-Screen 375x949<br>
+Screenshot 375x949<br>
 <img src="375x949.png" alt="screenshot" width="200">
 
 Introduce your projects by taking a screenshot or a gif. Try to tell visitors a story about your project by answering:
@@ -53,8 +53,8 @@ Introduce your projects by taking a screenshot or a gif. Try to tell visitors a 
 
 <!-- This section should list any major frameworks that you built your project using. Here are a few examples.-->
 
+- [Vite](https://vitejs.dev/)
 - [React](https://reactjs.org/)
-- [Vue.js](https://vuejs.org/)
 - [Tailwind](https://tailwindcss.com/)
 
 ## Features
