@@ -36,8 +36,8 @@
 
 ## Overview
 
-![screenshot](Laptop-1-1440x1080.png)
-![screenshot](iPhone-XS-X-375x949.png)
+![screenshot](1440x1080.png)
+![screenshot](375x949.png)
 
 Introduce your projects by taking a screenshot or a gif. Try to tell visitors a story about your project by answering:
 
