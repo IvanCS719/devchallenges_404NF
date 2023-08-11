@@ -1,6 +1,6 @@
-import Section from '../section/notFound404/section';
-import Header from '../header/notFound404/header';
-import Footer from '../footer/notFound404/footer'
+import Section from '../section/404NotFound/section';
+import Header from '../header/404NotFound/header';
+import Footer from '../footer/404NotFound/footer'
 
 export default function notFound404() {
     return (
