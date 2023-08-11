@@ -37,10 +37,10 @@
 ## Overview
 
 Screen 1440x1080
-![screenshot](1440x1080.png)
+<img src="1440x1080.png" alt="screenshot" width="720">
 
 Screen 375x949
-![screenshot](375x949.png)
+<img src="375x949.png" alt="screenshot" width="200">
 
 Introduce your projects by taking a screenshot or a gif. Try to tell visitors a story about your project by answering:
 
