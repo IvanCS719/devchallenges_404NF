@@ -36,8 +36,8 @@
 
 ## Overview
 
-![screenshot](404-not-found-master/Laptop-1-1440x1080.png)
-![screenshot](404-not-found-master/iPhone-XS-X-375x949.png)
+![screenshot](Laptop-1-1440x1080.png)
+![screenshot](iPhone-XS-X-375x949.png)
 
 Introduce your projects by taking a screenshot or a gif. Try to tell visitors a story about your project by answering:
 
